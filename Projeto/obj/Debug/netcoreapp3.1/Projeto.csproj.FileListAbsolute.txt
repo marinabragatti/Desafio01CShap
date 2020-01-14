@@ -1,0 +1,11 @@
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.exe
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.deps.json
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.json
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.runtimeconfig.dev.json
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\MABB\source\repos\Projeto\Projeto\bin\Debug\netcoreapp3.1\Projeto.pdb
+C:\Users\MABB\source\repos\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.csprojAssemblyReference.cache
+C:\Users\MABB\source\repos\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfoInputs.cache
+C:\Users\MABB\source\repos\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.AssemblyInfo.cs
+C:\Users\MABB\source\repos\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.dll
+C:\Users\MABB\source\repos\Projeto\Projeto\obj\Debug\netcoreapp3.1\Projeto.pdb
